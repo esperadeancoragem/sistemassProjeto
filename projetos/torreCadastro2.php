@@ -287,39 +287,41 @@ Logo2
   <h2>Incluir Torre</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h6><span class="vermelho">Torres já cadastradas</span>
+  <h4><span class="vermelho">Torres já cadastradas</span>
     <select name="torres" class="textbox" id="torres">
-    </select>
-  </h6>
+      </select>
+  </h4>
   <p>&nbsp;</p>
-  <h4>Projeto 
+  <h5>Projeto 
     <label for="projeto"></label>
     <input name="projeto" type="text" class="textbox" id="projeto" size="60">
-  </h4>
-  <p>&nbsp;</p>
-  <h4>Torre 
+  </h5>
+  <h5>&nbsp;</h5>
+  <h5>Torre 
     <label for="torre"></label>
     <input name="torre" type="text" class="textbox" id="torre" size="4">
-  Qntd de Esperas 
-  <label for="qntdesperas"></label>
-  <input name="qntdesperas" type="text" class="textbox" id="qntdesperas" size="6">
-  </h4>
-  <p>&nbsp;</p>
-  <h4>Esticador pesado galv 
+    Qntd de Esperas 
+    <label for="qntdesperas"></label>
+    <input name="qntdesperas" type="text" class="textbox" id="qntdesperas" size="6">
+  </h5>
+  <h5>&nbsp;</h5>
+  <h5>Esticador pesado galv 
     <label for="esticador"></label>
     <input name="esticador" type="text" class="textbox" id="esticador" size="4">
-  Sapatilha pesada galv 
-  <label for="sapatilha"></label>
-  <input name="sapatilha" type="text" class="textbox" id="sapatilha" size="4">
-  Presilhas pesadas galv 
-  <label for="presilhas"></label>
-  <input name="presilhas" type="text" class="textbox" id="presilhas" size="4">
-  Cabo de aço 5/16&quot; AA 
-  <label for="cabodeaco"></label>
-  <input name="cabodeaco" type="text" class="textbox" id="cabodeaco" size="4">
-  </h4>
-  <p>&nbsp;</p>
-  <h3>Dispositivo:</h3>
+    Sapatilha pesada galv 
+    <label for="sapatilha"></label>
+    <input name="sapatilha" type="text" class="textbox" id="sapatilha" size="4">
+    </h5>
+  <h5>&nbsp;</h5>
+  <h5>Presilhas pesadas galv
+    <label for="presilhas"></label>
+    <input name="presilhas" type="text" class="textbox" id="presilhas" size="4">
+    Cabo de aço 5/16&quot; AA 
+    <label for="cabodeaco"></label>
+    <input name="cabodeaco" type="text" class="textbox" id="cabodeaco" size="4">
+  </h5>
+  <h5>&nbsp;</h5>
+  <h4>Dispositivo:</h4>
   <p>&nbsp;</p>
   <p>
     <label for="dispositivo"></label>
