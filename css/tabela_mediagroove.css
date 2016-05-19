@@ -1,0 +1,74 @@
+.tableOrc {
+	width: 700px;
+	border-collapse: collapse;
+	border: 1px solid #444444;
+}
+.tableOrc .caption {
+	font: 1.8em/1.8em Arial, Helvetica, sans-serif;
+	text-align: left;
+	text-indent: 10px;
+	background: url(bg_caption.jpg) right top;
+	height: 45px;
+	color: #333333;
+}
+.tableOrc .thead th {
+	background: url(bg_th.jpg) no-repeat right;
+	height: 47px;
+	color: #FFFFFF;
+	font-size: 0.8em;
+	font-weight: bold;
+	padding: 0px 7px;
+	margin: 20px 0px 0px;
+	text-align: left;
+	border-right: 1px solid #FCF1D4;
+}
+.tbody tr {
+	background: url(bg_td1.jpg) repeat-x top;
+	font-size: 12px;
+	text-align: center;
+}
+.tbody tr.odd {
+	background: #FFF8E8 url(bg_td2.jpg) repeat-x;
+}
+
+.tbody th {
+	font-size: 1.0em;
+	line-height: 1.4em;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	padding: 4px 5px;
+	border-top: 1px solid #000000;
+	text-align: center;
+}
+
+ .tbody td {
+	font-size: 1em;
+	line-height: 1.4em;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	padding: 2px 7px;
+	border-top: 1px solid #444444;
+	border-right: 1px solid #DDDDDD;
+	text-align: center;
+}
+
+a {
+	color: #777777;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+tfoot th {
+	background: url(bg_total.jpg) repeat-x bottom;
+	color: #FFFFFF;
+	height: 30px;
+}
+tfoot td {
+	background: url(bg_total.jpg) repeat-x bottom;
+	color: #FFFFFF;
+	height: 30px;
+}
+S
