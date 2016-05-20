@@ -372,7 +372,6 @@ accept-charset="UTF-8">
     <input name="voltar" type="submit" class="botao" id="voltar" value="Voltar">
   </p>
   <p>&nbsp;</p>
-  <p>&nbsp;</p>
   <div align="center">
     <table width="1250" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
@@ -404,96 +403,8 @@ accept-charset="UTF-8">
       <tr>
         <td colspan="6">&nbsp;</td>
         </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
-      <tr>
-        <td width="250">&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td width="250">&nbsp;</td>
-        <td>&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        </tr>
-      <tr>
-        <td colspan="6">&nbsp;</td>
-        </tr>
     </table>
-  </div>
+</div>
   <p>&nbsp;</p>
 
 </form>

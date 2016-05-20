@@ -24,16 +24,16 @@ lstr.value=str.toUpperCase(); //converte as strings e retorna ao campo
 //Para ativar essa função --> onkeyup="up(this)" <-- no input
 </script>
 <body>
-Logo2
+Logo
 <div id="cssmenu">
 <ul>
   <li><a href="../index.php">In&iacute;cio</a></li>
   <!--Inicio Cadastro -->
   <li class='active'><a href='#'>Cadastro</a>
     <ul>
-      <li><a href='#'>Projetos</a>
+      <li><a href='#'>Funcion&aacute;rios</a>
       <ul>
-      <li><a href="../projetoCadastrar.php" onclick="MM_effectAppearFade(this, 1000, 100, 0, false)">Cadastrar</a></li>
+      <li><a href="../funcCadastro.php" onclick="MM_effectAppearFade(this, 1000, 100, 0, false)">Cadastrar</a></li>
       <li><a href="../funcEditar.php">Editar</a></li>
       <li><a href="./">Consultar</a></li>
       <li><a href="./">Excluir</a></li>
@@ -282,57 +282,21 @@ Logo2
 <p> </p><br>
 
 <!-- InstanceBeginEditable name="EditRegion" -->
-<div class=form><form method="post" name="torreIncluir2" id="torreIncluir2" accept-charset="UTF-8">
+<div class="form"><form method="post" name="tarefasIncluir" id="tarefasIncluir" accept-charset="UTF-8">
   
-  <h2>Incluir Torre</h2>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <h4><span class="vermelho">Torres já cadastradas</span>
-    <select name="torres" class="textbox" id="torres">
-      </select>
-  </h4>
-  <p>&nbsp;</p>
-  <h5>Projeto 
-    <label for="projeto"></label>
-    <input name="projeto" type="text" class="textbox" id="projeto" size="60">
-  </h5>
-  <h5>&nbsp;</h5>
-  <h5>Torre 
-    <label for="torre"></label>
-    <input name="torre" type="text" class="textbox" id="torre" size="4">
-    Qntd de Esperas 
-    <label for="qntdesperas"></label>
-    <input name="qntdesperas" type="text" class="textbox" id="qntdesperas" size="6">
-  </h5>
-  <h5>&nbsp;</h5>
-  <h5>Esticador pesado galv 
-    <label for="esticador"></label>
-    <input name="esticador" type="text" class="textbox" id="esticador" size="4">
-    Sapatilha pesada galv 
-    <label for="sapatilha"></label>
-    <input name="sapatilha" type="text" class="textbox" id="sapatilha" size="4">
-    </h5>
-  <h5>&nbsp;</h5>
-  <h5>Presilhas pesadas galv
-    <label for="presilhas"></label>
-    <input name="presilhas" type="text" class="textbox" id="presilhas" size="4">
-    Cabo de aço 5/16&quot; AA 
-    <label for="cabodeaco"></label>
-    <input name="cabodeaco" type="text" class="textbox" id="cabodeaco" size="4">
-  </h5>
-  <h5>&nbsp;</h5>
-  <h4><strong>Dispositivo:</strong></h4>
-  <p>&nbsp;</p>
-  <p>
-    <label for="dispositivo"></label>
-    <textarea name="dispositivo" cols="60" rows="6" class="textarea" id="dispositivo"></textarea>
-  </p>
-  <p>&nbsp;</p>
-  <p>
-    <input name="cadastrar" type="submit" class="botao" id="cadastrar" value="Cadastrar">
-    <input name="voltar" type="submit" class="botao" id="voltar" value="Voltar">
-  </p>
-  <p>&nbsp;</p>
+  <h2>Cadastro de Tarefas</h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>Selecione o Projeto 
+  <label for="projetoLista"></label>
+  <select name="projetoLista" class="textbox" id="projetoLista">
+  </select>
+</h4>
+<p>&nbsp;</p>
+<p>
+  <input name="avancar" type="submit" class="botao" id="avancar" value="Avançar">
+</p>
+<p>&nbsp;</p>
 
 </form>
 </div>

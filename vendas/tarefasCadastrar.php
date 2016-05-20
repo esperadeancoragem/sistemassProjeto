@@ -287,11 +287,11 @@ Logo2
   <h2>Cadastro de Tarefas</h2>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h4>Selecione o Projeto 
+<h5>Selecione o Projeto 
   <label for="projetoLista"></label>
   <select name="projetoLista" class="textbox" id="projetoLista">
-  </select>
-</h4>
+    </select>
+</h5>
 <p>&nbsp;</p>
 <p>
   <input name="avancar" type="submit" class="botao" id="avancar" value="Avançar">
