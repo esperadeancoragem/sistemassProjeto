@@ -388,22 +388,22 @@ accept-charset="UTF-8">
   <div align="center">
     <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <th width="250" bgcolor="#D6D6D6"><div align="center">
+        <td width="250" bgcolor="#D6D6D6"><div align="center">
           <h4>Tarefa</h4>
-          </div></th>
-        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          </div></td>
+        <td width="100" bgcolor="#D6D6D6"><div align="center">
           <h4>Prioridade</h4>
-          </div></th>
-        <th width="150" bgcolor="#D6D6D6"><div align="center">
+          </div></td>
+        <td width="150" bgcolor="#D6D6D6"><div align="center">
           <h4>Status</h4>
-          </div></th>
-        <th width="250" bgcolor="#D6D6D6"><div align="center">
+          </div></td>
+        <td width="250" bgcolor="#D6D6D6"><div align="center">
           <h4>Atribuido</h4>
-          </div></th>
-        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          </div></td>
+        <td width="100" bgcolor="#D6D6D6"><div align="center">
           <h4>Sub-atribuido</h4>
-          </div></th>
-        <th width="200" bgcolor="#D6D6D6"><h4 align="center">Início - Término</h4></th>
+          </div></td>
+        <td width="200" bgcolor="#D6D6D6"><h4 align="center">Início - Término</h4></td>
         </tr>
       <tr>
         <td width="250">&nbsp;</td>
