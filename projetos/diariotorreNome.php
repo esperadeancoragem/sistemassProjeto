@@ -287,17 +287,17 @@ accept-charset="UTF-8">
   <h2>Relatório Diário da Torre por Nome</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h4>Selecione o Projeto 
+  <h5>Selecione o Projeto 
     <label for="projeto"></label>
     <select name="projeto" class="textbox" id="projeto">
       </select>
-  </h4>
-  <p>&nbsp;</p>
-  <h4>Selecione a Torre 
+  </h5>
+  <h5>&nbsp;</h5>
+  <h5>Selecione a Torre 
     <label for="Torre"></label>
     <select name="Torre" class="textbox" id="Torre">
       </select>
-  </h4>
+  </h5>
   <p>&nbsp;</p>
   <p>
     <input name="continuar" type="submit" class="botao" id="continuar" value="Continuar">
