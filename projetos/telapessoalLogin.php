@@ -287,13 +287,13 @@ Logo2
   <h2>Login Tela Pessoal</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h4>Login </h4>
-  <p>&nbsp;</p>
-  <h4>Digite seu ID 
+  <h5>Login </h5>
+  <h5>&nbsp;</h5>
+  <h5>Digite seu ID 
     <label for="id"></label>
     <input name="id" type="text" class="textbox" id="id" size="6">
     <input name="login" type="submit" class="botao" id="login" value="Login">
-  </h4>
+  </h5>
   <p>&nbsp; </p>
 
 </form>

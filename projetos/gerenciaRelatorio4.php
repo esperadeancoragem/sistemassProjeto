@@ -300,45 +300,47 @@ accept-charset="UTF-8">
     <input name="atualizar" type="submit" class="botao" id="atualizar" value="Atualizar">
   </h4>
   <p>&nbsp;</p>
-  <table width="1250" border="1" cellpadding="0" cellspacing="0">
-    <tr>
-      <th width="150" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Projeto</span></h5>
-      </div></th>
-      <th width="150" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Tarefa</span></h5>
-      </div></th>
-      <th width="150" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Prioridade</span></h5>
-      </div></th>
-      <th width="150" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Status</span></h5>
-      </div></th>
-      <th width="150" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Setor / Funcionário</span></h5>
-      </div></th>
-      <th width="100" bgcolor="#CCCCCC"><div align="center">
-        <h5><span class="tableOrc">Início - Conclusão</span></h5>
-      </div></th>
-    </tr>
-    <tr>
-      <td width="150">&nbsp;</td>
-      <td width="150">&nbsp;</td>
-      <td width="150">&nbsp;</td>
-      <td width="150">&nbsp;</td>
-      <td width="150">&nbsp;</td>
-      <td width="100">&nbsp;</td>
-    </tr>
-    <tr>
-      <td colspan="6">&nbsp;</td>
-    </tr>
-    <tr>
-      <td colspan="6" bgcolor="#CCCCCC"><span class="tableOrc">
-        <input type="radio" name="radio" id="selecione" value="selecione">
-        <input name="selecione" type="submit" class="botao" id="selecione2" value="Selecione">        
-      </span></td>
-    </tr>
-  </table>
+  <div align="center">
+    <table width="1250" border="1" cellpadding="0" cellspacing="0">
+      <tr>
+        <th width="150" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Projeto</span></h5>
+          </div></th>
+        <th width="150" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Tarefa</span></h5>
+          </div></th>
+        <th width="150" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Prioridade</span></h5>
+          </div></th>
+        <th width="150" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Status</span></h5>
+          </div></th>
+        <th width="150" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Setor / Funcionário</span></h5>
+          </div></th>
+        <th width="100" bgcolor="#CCCCCC"><div align="center">
+          <h5><span class="tableOrc">Início - Conclusão</span></h5>
+          </div></th>
+        </tr>
+      <tr>
+        <td width="150">&nbsp;</td>
+        <td width="150">&nbsp;</td>
+        <td width="150">&nbsp;</td>
+        <td width="150">&nbsp;</td>
+        <td width="150">&nbsp;</td>
+        <td width="100">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan="6">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan="6" bgcolor="#CCCCCC"><span class="tableOrc">
+          <input type="radio" name="radio" id="selecione" value="selecione">
+          <input name="selecione" type="submit" class="botao" id="selecione2" value="Selecione">        
+          </span></td>
+        </tr>
+    </table>
+  </div>
   <p>&nbsp;</p>
 
 </form>
