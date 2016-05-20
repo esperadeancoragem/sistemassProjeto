@@ -293,24 +293,24 @@ accept-charset="UTF-8">
   <p>&nbsp;</p>
   <table width="1200" border="0" cellpadding="0" cellspacing="5">
     <tr>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Tarefa</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Prioridade</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Status</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Atribuição</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Sub-atribuição</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Descrição</h4>
-      </div></th>
+      </div></td>
     </tr>
     <tr>
       <td width="200"><label for="tarefa"></label>
@@ -339,17 +339,17 @@ accept-charset="UTF-8">
         </div></td>
     </tr>
     <tr>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Início</h4>
-      </div></th>
-      <th width="200" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" bgcolor="#FFFFFF"><div align="center">
         <h4>Conclusão</h4>
-      </div></th>
-      <th width="200" rowspan="2" bgcolor="#FFFFFF"><div align="center">
+      </div></td>
+      <td width="200" rowspan="2" bgcolor="#FFFFFF"><div align="center">
         <h4>Liberadora p/ Orçamento</h4>
       </div>        <div align="center">
           <h4>Entrega de Doc?</h4>
-        </div></th>
+        </div></td>
       <td colspan="2" rowspan="2"><label for="liberacaoOrc"></label>
         <select name="liberacaoOrc" class="textbox" id="liberacaoOrc">
         </select></td>
