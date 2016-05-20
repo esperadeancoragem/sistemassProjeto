@@ -313,7 +313,7 @@ Logo2
     <input name="sapatilha" type="text" class="textbox" id="sapatilha" size="4">
     </h5>
   <h5>&nbsp;</h5>
-  <h5>Presilhas pesadas galv
+  <h5>Presilha pesada galv
     <label for="presilhas"></label>
     <input name="presilhas" type="text" class="textbox" id="presilhas" size="4">
     Cabo de aço 5/16&quot; AA 

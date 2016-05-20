@@ -287,19 +287,20 @@ Logo2
   <h2>Editar Construtoras/Parceiros</h2>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h4>Nome 
+<h5>Nome 
   <label for="nome"></label>
+  pré edição
   <input name="nome" type="text" class="textbox" id="nome" size="30">
   <input name="Buscar" type="submit" class="botao" id="Buscar" value="Buscar">
-</h4>
-<p>&nbsp;</p>
-<h4>Nome atual</h4>
-<p>&nbsp;</p>
-<h4>Nome após edição 
+</h5>
+<h5>&nbsp;</h5>
+<h5>Nome atual</h5>
+<h5>&nbsp;</h5>
+<h5>Nome pós edição 
   <label for="nomeEdicao"></label>
   <input name="nomeEdicao" type="text" class="textbox" id="nomeEdicao" size="30">
   <input name="Alterar" type="submit" class="botao" id="Alterar" value="Alterar">
-</h4>
+</h5>
 <p>&nbsp;</p>
 
 </form>
