@@ -294,91 +294,91 @@ accept-charset="UTF-8">
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <td colspan="4" bgcolor="#D6D6D6"><h4>
+        <td colspan="4" bgcolor="#D6D6D6"><h5>
           <label for="projeto2"></label>
-          Projeto:</h4></td>
+          Projeto:</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Construtora</h4></td>
-        <td width="170"><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Construtora</h5></td>
+        <td width="170"><h5>
           <label for="construtora"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Equipe</h4></td>
-        <td width="170"><h4>&nbsp;</h4></td>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Equipe</h5></td>
+        <td width="170"><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Proprietário</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Proprietário</h5></td>
+        <td><h5>
           <label for="proprietario"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Status</h4></td>
-        <td><h4>&nbsp;</h4></td>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Status</h5></td>
+        <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Vendedor</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Vendedor</h5></td>
+        <td><h5>
           <label for="vendedor"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Categoria</h4></td>
-        <td><h4>&nbsp;</h4></td>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Categoria</h5></td>
+        <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Última visita</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Última visita</h5></td>
+        <td><h5>
           <label for="ultVisita"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Prioridade</h4></td>
-        <td><h4>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Prioridade</h5></td>
+        <td><h5>
           <label for="prioridade"></label>
-        </h4></td>
+        </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Torres</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Torres</h5></td>
+        <td><h5>
           <label for="torres"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Data de fechamento</h4></td>
-        <td><h4>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Data de fechamento</h5></td>
+        <td><h5>
           <label for="dataFechamento"></label>
-        </h4></td>
+        </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Plantas</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Plantas</h5></td>
+        <td><h5>
           <label for="plantas"></label>
-        </h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Data de início</h4></td>
-        <td><h4>
+        </h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Data de início</h5></td>
+        <td><h5>
           <label for="dataInicio"></label>
-        </h4></td>
+        </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Fotos</h4></td>
-        <td><h4>&nbsp;</h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Data de término</h4></td>
-        <td><h4>
+        <td width="80" bgcolor="#D6D6D6"><h5>Fotos</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Data de término</h5></td>
+        <td><h5>
           <label for="dataTermino"></label>
-        </h4></td>
+        </h5></td>
         </tr>
       <tr>
-        <td width="80" height="31" bgcolor="#D6D6D6"><h4>Croqui</h4></td>
-        <td><h4>&nbsp;</h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>Trabalho Sábado/Feriados?</h4></td>
-        <td><h4>
+        <td width="80" height="31" bgcolor="#D6D6D6"><h5>Croqui</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Trabalho Sábado/Feriados?</h5></td>
+        <td><h5>
           <label for="trabalhoFds"></label>
-        </h4></td>
+        </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Orçamentos</h4></td>
-        <td><h4>&nbsp;</h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>&nbsp;</h4></td>
-        <td><h4>&nbsp;</h4></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Orçamentos</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>&nbsp;</h5></td>
+        <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h4>Qntd de Esperas</h4></td>
-        <td><h4>&nbsp;</h4></td>
-        <td width="80" bgcolor="#D6D6D6"><h4>&nbsp;</h4></td>
-        <td><h4>&nbsp;</h4></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>Qntd de Esperas</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td width="80" bgcolor="#D6D6D6"><h5>&nbsp;</h5></td>
+        <td><h5>&nbsp;</h5></td>
         </tr>
     </table>
   </div>
@@ -389,21 +389,21 @@ accept-charset="UTF-8">
     <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
         <td width="250" bgcolor="#D6D6D6"><div align="center">
-          <h4>Tarefa</h4>
+          <h5>Tarefa</h5>
           </div></td>
         <td width="100" bgcolor="#D6D6D6"><div align="center">
-          <h4>Prioridade</h4>
+          <h5>Prioridade</h5>
           </div></td>
         <td width="150" bgcolor="#D6D6D6"><div align="center">
-          <h4>Status</h4>
+          <h5>Status</h5>
           </div></td>
         <td width="250" bgcolor="#D6D6D6"><div align="center">
-          <h4>Atribuido</h4>
+          <h5>Atribuido</h5>
           </div></td>
         <td width="100" bgcolor="#D6D6D6"><div align="center">
-          <h4>Sub-atribuido</h4>
+          <h5>Sub-atribuido</h5>
           </div></td>
-        <td width="200" bgcolor="#D6D6D6"><h4 align="center">Início - Término</h4></td>
+        <td width="200" bgcolor="#D6D6D6"><h5 align="center">Início - Término</h5></td>
         </tr>
       <tr>
         <td width="250">&nbsp;</td>
@@ -512,23 +512,23 @@ accept-charset="UTF-8">
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <td colspan="6" bgcolor="#D6D6D6"><h4>Relatório de Visita(s)</h4></td>
+        <td colspan="6" bgcolor="#D6D6D6"><h5>Relatório de Visita(s)</h5></td>
         </tr>
       <tr>
-        <td bgcolor="#D6D6D6"><h4>Vendedor responsável</h4></td>
-        <td>&nbsp;</td>
-        <td bgcolor="#D6D6D6"><h4>Data(s) da(s) visita(s)</h4></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td bgcolor="#D6D6D6"><h5>Vendedor responsável</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td bgcolor="#D6D6D6"><h5>Data(s) da(s) visita(s)</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td><h5>&nbsp;</h5></td>
+        <td><h5>&nbsp;</h5></td>
       </tr>
       <tr>
-        <td width="200">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        <td width="200">&nbsp;</td>
-        <td width="200">&nbsp;</td>
+        <td width="200"><h5>&nbsp;</h5></td>
+        <td width="200"><h5>&nbsp;</h5></td>
+        <td width="200"><h5>&nbsp;</h5></td>
+        <td width="200"><h5>&nbsp;</h5></td>
+        <td width="200"><h5>&nbsp;</h5></td>
+        <td width="200"><h5>&nbsp;</h5></td>
         </tr>
     </table>
   </div>
@@ -538,21 +538,21 @@ accept-charset="UTF-8">
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <td width="74" bgcolor="#D6D6D6"><h4>
+        <td width="74" bgcolor="#D6D6D6"><h5>
           <legend>Endereço</legend>
-          </h4></td>
+        </h5></td>
         <td colspan="3"><label for="endereco"></label></td>
         </tr>
       <tr>
-        <td width="74" bgcolor="#D6D6D6"><h4>Bairro</h4></td>
+        <td width="74" bgcolor="#D6D6D6"><h5>Bairro</h5></td>
         <td width="110"><label for="bairro"></label></td>
-        <td width="20" bgcolor="#D6D6D6"><h4>CEP</h4></td>
+        <td width="20" bgcolor="#D6D6D6"><h5>CEP</h5></td>
         <td width="143"><label for="CEP"></label></td>
         </tr>
       <tr>
-        <td width="74" bgcolor="#D6D6D6"><h4>Cidade</h4></td>
+        <td width="74" bgcolor="#D6D6D6"><h5>Cidade</h5></td>
         <td width="110"><label for="cidade"></label></td>
-        <td width="20" bgcolor="#D6D6D6"><h4>Estado</h4></td>
+        <td width="20" bgcolor="#D6D6D6"><h5>Estado</h5></td>
         <td width="143"><label for="UF"></label></td>
         </tr>
     </table>
@@ -563,89 +563,89 @@ accept-charset="UTF-8">
   <div align="center">
     <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <td colspan="4" bgcolor="#D6D6D6"><h3 align="left">Contato 1</h3></td>
+        <td colspan="4" bgcolor="#D6D6D6"><h4 align="left">Contato 1</h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Nome</h4></td>
+        <td width="90"><h5>Nome</h5></td>
         <td width="200"><h4>
           <label for="contato"></label>
         </h4></td>
-        <td width="30"><h4>Cargo</h4></td>
+        <td width="30"><h5>Cargo</h5></td>
         <td width="200"><h4>
           <label for="cargo"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Telefone</h4></td>
+        <td width="90"><h5>Telefone</h5></td>
         <td width="200"><h4>
           <label for="telefone"></label>
         </h4></td>
-        <td width="30"><h4>ID</h4></td>
+        <td width="30"><h5>ID</h5></td>
         <td width="200"><h4>
           <label for="ID"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Email</h4></td>
+        <td width="90"><h5>Email</h5></td>
         <td colspan="3"><h4>
           <label for="email"></label>
         </h4></td>
         </tr>
       <tr>
-        <td colspan="4" bgcolor="#D6D6D6"><h3 align="left">Contato 2</h3></td>
+        <td colspan="4" bgcolor="#D6D6D6"><h4 align="left">Contato 2</h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Nome</h4></td>
+        <td width="90"><h5>Nome</h5></td>
         <td><h4>
           <label for="contato2"></label>
         </h4></td>
-        <td width="30"><h4>Cargo</h4></td>
+        <td width="30"><h5>Cargo</h5></td>
         <td><h4>
           <label for="cargo"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Telefone</h4></td>
+        <td width="90"><h5>Telefone</h5></td>
         <td><h4>
           <label for="telefone"><br>
           </label>
         </h4></td>
-        <td width="30"><h4>ID</h4></td>
+        <td width="30"><h5>ID</h5></td>
         <td><h4>
           <label for="cargo"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Email</h4></td>
+        <td width="90"><h5>Email</h5></td>
         <td colspan="3"><h4>
           <label for="email"></label>
         </h4></td>
         </tr>
       <tr>
-        <td colspan="4" bgcolor="#D6D6D6"><h3 align="left">Contato 3</h3></td>
+        <td colspan="4" bgcolor="#D6D6D6"><h4 align="left">Contato 3</h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Nome</h4></td>
+        <td width="90"><h5>Nome</h5></td>
         <td><h4>
           <label for="contato3"></label>
         </h4></td>
-        <td width="30"><h4>Cargo</h4></td>
+        <td width="30"><h5>Cargo</h5></td>
         <td><h4>
           <label for="cargo"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Telefone</h4></td>
+        <td width="90"><h5>Telefone</h5></td>
         <td><h4>
           <label for="telefone"></label>
         </h4></td>
-        <td width="30"><h4>ID</h4></td>
+        <td width="30"><h5>ID</h5></td>
         <td><h4>
           <label for="ID"></label>
         </h4></td>
         </tr>
       <tr>
-        <td width="90"><h4>Email</h4></td>
+        <td width="90"><h5>Email</h5></td>
         <td colspan="3"><h4>
           <label for="EMAIL"></label>
         </h4></td>
