@@ -289,17 +289,17 @@ accept-charset="UTF-8">
   <h2>Relatório Completo de Projetos</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h3>Projeto</h3>
+  <h4>Projeto</h4>
   <p>&nbsp;</p>
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
         <td colspan="4" bgcolor="#D6D6D6"><h5>
           <label for="projeto2"></label>
-          Projeto:</h5></td>
+          Projeto</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Construtora</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Construtora</h5></td>
         <td width="170"><h5>
           <label for="construtora"></label>
         </h5></td>
@@ -307,7 +307,7 @@ accept-charset="UTF-8">
         <td width="170"><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Proprietário</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Proprietário</h5></td>
         <td><h5>
           <label for="proprietario"></label>
         </h5></td>
@@ -315,7 +315,7 @@ accept-charset="UTF-8">
         <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Vendedor</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Vendedor</h5></td>
         <td><h5>
           <label for="vendedor"></label>
         </h5></td>
@@ -323,7 +323,7 @@ accept-charset="UTF-8">
         <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Última visita</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Última visita</h5></td>
         <td><h5>
           <label for="ultVisita"></label>
         </h5></td>
@@ -333,7 +333,7 @@ accept-charset="UTF-8">
         </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Torres</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Torres</h5></td>
         <td><h5>
           <label for="torres"></label>
         </h5></td>
@@ -343,7 +343,7 @@ accept-charset="UTF-8">
         </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Plantas</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Plantas</h5></td>
         <td><h5>
           <label for="plantas"></label>
         </h5></td>
@@ -353,7 +353,7 @@ accept-charset="UTF-8">
         </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Fotos</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Fotos</h5></td>
         <td><h5>&nbsp;</h5></td>
         <td width="80" bgcolor="#D6D6D6"><h5>Data de término</h5></td>
         <td><h5>
@@ -361,7 +361,7 @@ accept-charset="UTF-8">
         </h5></td>
         </tr>
       <tr>
-        <td width="80" height="31" bgcolor="#D6D6D6"><h5>Croqui</h5></td>
+        <td width="50" height="31" bgcolor="#D6D6D6"><h5>Croqui</h5></td>
         <td><h5>&nbsp;</h5></td>
         <td width="80" bgcolor="#D6D6D6"><h5>Trabalho Sábado/Feriados?</h5></td>
         <td><h5>
@@ -369,13 +369,13 @@ accept-charset="UTF-8">
         </h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Orçamentos</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Orçamentos</h5></td>
         <td><h5>&nbsp;</h5></td>
         <td width="80" bgcolor="#D6D6D6"><h5>&nbsp;</h5></td>
         <td><h5>&nbsp;</h5></td>
         </tr>
       <tr>
-        <td width="80" bgcolor="#D6D6D6"><h5>Qntd de Esperas</h5></td>
+        <td width="50" bgcolor="#D6D6D6"><h5>Qntd de Esperas</h5></td>
         <td><h5>&nbsp;</h5></td>
         <td width="80" bgcolor="#D6D6D6"><h5>&nbsp;</h5></td>
         <td><h5>&nbsp;</h5></td>
@@ -383,7 +383,7 @@ accept-charset="UTF-8">
     </table>
   </div>
   <p>&nbsp;</p>
-  <h3>Tarefas</h3>
+  <h4>Tarefas</h4>
   <p>&nbsp;</p>
   <div align="center">
     <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">
@@ -507,7 +507,7 @@ accept-charset="UTF-8">
     </table>
   </div>
   <p>&nbsp;</p>
-  <h3>Visitas</h3>
+  <h4>Visitas</h4>
   <p>&nbsp;</p>
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
@@ -533,7 +533,7 @@ accept-charset="UTF-8">
     </table>
   </div>
   <p>&nbsp;</p>
-  <h3>Endereço da obra</h3>
+  <h4>Endereço da obra</h4>
   <p>&nbsp;</p>
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
@@ -558,7 +558,7 @@ accept-charset="UTF-8">
     </table>
   </div>
   <p>&nbsp;</p>
-  <h3>Contatos da obra</h3>
+  <h4>Contatos da obra</h4>
   <p>&nbsp;</p>
   <div align="center">
     <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">

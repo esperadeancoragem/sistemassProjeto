@@ -14,7 +14,7 @@ ini_set(“display_errors”, 0 );
 <title>Documento sem título</title>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="head" -->
-<link href="../css/tabela_mediagroove.css" rel="stylesheet" type="text/css">
+<link href="css/tabela_mediagroove.css" rel="stylesheet" type="text/css">
 <!-- InstanceEndEditable -->
 </head>
 <script type="text/JavaScript">
@@ -283,57 +283,73 @@ Logo2
 <p> </p><br>
 
 <!-- InstanceBeginEditable name="EditRegion" -->
-<div class="form"><form method="post" name="relatoriosTarefas2" id="relatoriosTarefas2" accept-charset="UTF-8">
-
-  <h2 align="center">Relatório de Tarefas</h2>
+<div class="form"><form method="post" name="diariotorreRelat" id="diariotorreRelat" accept-charset="UTF-8">
+  
+  <h2 align="center">Diário da Torre por Data</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h4 align="center">Total de registros encontrados:<span class="vermelho">xxxx</span> De: <span class="vermelho">xx/xx/xxxx</span> até: <span class="vermelho">xx/xx/xxxx</span></h4>
+  <h4 align="center">De 
+    <label for="dataInicio"></label>
+    xx/xx/xxxx
+    até 
+    <label for="dataFim"></label>
+    xx/xx/xxxx
+  </h4>
   <p>&nbsp;</p>
-  <div align="center">
-    <table width="1200" border="1" align="center" cellpadding="0" cellspacing="0" class="tbody">
-      <tr class="tbody">
-        <td width="50" bgcolor="#CCCCCC"><h4><strong>ID</strong></h4></td>
-        <td width="300" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Projeto</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Tarefa</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Prioridade</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Status</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Setor</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Início</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><div align="center">
-          <h4><strong>Conclusão</strong></h4>
-          </div></td>
-        <td width="100" bgcolor="#CCCCCC"><h4><strong>Liberação</strong></h4></td>
-        <td width="100" bgcolor="#CCCCCC"><h4><strong>Atribuição</strong></h4></td>
-        <td width="100" bgcolor="#CCCCCC"><h4><strong>Sub-atribuição</strong></h4></td>
-        </tr>
-      <tr>
-        <td width="50">&nbsp;</td>
-        <td width="300">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        </tr>
-    </table>
-  </div>
+  <table width="1200" border="1" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="77" bgcolor="#CCCCCC"><div align="center">
+        <h5>Projeto</h5>
+      </div></td>
+      <td width="58" bgcolor="#CCCCCC"><div align="center">
+        <h5>Torre</h5>
+      </div></td>
+      <td width="64" bgcolor="#CCCCCC"><div align="center">
+        <h5>Quant</h5>
+      </div></td>
+      <td width="49" bgcolor="#CCCCCC"><div align="center">
+        <h5>Data</h5>
+      </div></td>
+      <td width="112" bgcolor="#CCCCCC"><div align="center">
+        <h5>Hora Início</h5>
+      </div></td>
+      <td width="113" bgcolor="#CCCCCC"><div align="center">
+        <h5>Hora saída</h5>
+      </div></td>
+      <td width="60" bgcolor="#CCCCCC"><div align="center">
+        <h5>Furos</h5>
+      </div></td>
+      <td width="154" bgcolor="#CCCCCC"><div align="center">
+        <h5>Chumbamento</h5>
+      </div></td>
+      <td width="60" bgcolor="#CCCCCC"><div align="center">
+        <h5>Teste</h5>
+      </div></td>
+      <td width="124" bgcolor="#CCCCCC"><div align="center">
+        <h5>Inst. Espera</h5>
+      </div></td>
+      <td width="185" bgcolor="#CCCCCC"><div align="center">
+        <h5>Inst Linha de VIda</h5>
+      </div></td>
+      <td width="118" bgcolor="#CCCCCC"><div align="center">
+        <h5>+ Detalhes</h5>
+      </div></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
   <p>&nbsp;</p>
 
 </form>

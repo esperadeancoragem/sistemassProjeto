@@ -298,7 +298,7 @@ Logo2
         <td width="80" bgcolor="#CCCCCC"><h5 align="center">Atribuição</h5></td>
         <td width="200" bgcolor="#CCCCCC"><h5 align="center">Sub-atribuição</h5></td>
         <td width="80" bgcolor="#CCCCCC"><h5 align="center">Setor</h5></td>
-        <td width="80" bgcolor="#CCCCCC"><h5 align="center">Liberado?</h5></td>
+        <td width="80" bgcolor="#CCCCCC"><h5 align="center">Liberação</h5></td>
         </tr>
       <tr>
         <td width="300"><label for="projeto"></label>

@@ -289,7 +289,7 @@ Logo2
       <h2>Gráfico de Produção</h2>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-      <table width="730" border="0" class="tbody">
+      <table width="730" border="1" cellspacing="0" class="tbody">
         <tr>
           <th colspan="2" bgcolor="#CCCCCC"><div align="center">
             <h4>Período A</h4>

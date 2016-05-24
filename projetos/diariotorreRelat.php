@@ -295,26 +295,46 @@ Logo2
   <div align="center">
     <table width="1200" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
-        <th width="150" bgcolor="#CCCCCC"><div align="center">Data</div></th>
-        <th width="100" bgcolor="#CCCCCC"><div align="center">Hora início</div></th>
-        <th width="100" bgcolor="#CCCCCC"><div align="center">Hora saída</div></th>
-        <th width="100" bgcolor="#CCCCCC"><div align="center">Furos</div></th>
-        <th width="150" bgcolor="#CCCCCC"><div align="center">Chumbamento</div></th>
-        <th width="100" bgcolor="#CCCCCC"><div align="center">Teste</div></th>
-        <th width="150" bgcolor="#CCCCCC"><div align="center">Inst. Espera</div></th>
-        <th width="150" bgcolor="#CCCCCC"><div align="center">Inst. Linha de vida</div></th>
-        <th width="100" bgcolor="#CCCCCC"><div align="center">+ Detalhes</div></th>
+        <th width="150" bgcolor="#D6D6D6"><div align="center">
+          <h5>Data</h5>
+        </div></th>
+        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          <h5>Hora início</h5>
+        </div></th>
+        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          <h5>Hora saída</h5>
+        </div></th>
+        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          <h5>Furos</h5>
+        </div></th>
+        <th width="150" bgcolor="#D6D6D6"><div align="center">
+          <h5>Chumbamento</h5>
+        </div></th>
+        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          <h5>Teste</h5>
+        </div></th>
+        <th width="150" bgcolor="#D6D6D6"><div align="center">
+          <h5>Inst. Espera</h5>
+        </div></th>
+        <th width="150" bgcolor="#D6D6D6"><div align="center">
+          <h5>Inst. Linha de vida</h5>
+        </div></th>
+        <th width="100" bgcolor="#D6D6D6"><div align="center">
+          <h5>+ Detalhes</h5>
+        </div></th>
         </tr>
       <tr>
-        <td width="150"><div align="center">18/12/1992</div></td>
-        <td width="100">&nbsp;</td>
-        <td width="100" bgcolor="#D6D6D6"><h4 align="center">Totais</h4></td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="100">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="150">&nbsp;</td>
-        <td width="100"><h4 align="center">+ Detalhes</h4></td>
+        <td width="150"><div align="center">
+          <h5>&nbsp;</h5>
+        </div></td>
+        <td width="100"><h5>&nbsp;</h5></td>
+        <td width="100" bgcolor="#D6D6D6"><h5 align="center">Totais</h5></td>
+        <td width="100"><h5>&nbsp;</h5></td>
+        <td width="150"><h5>&nbsp;</h5></td>
+        <td width="100"><h5>&nbsp;</h5></td>
+        <td width="150"><h5>&nbsp;</h5></td>
+        <td width="150"><h5>&nbsp;</h5></td>
+        <td width="100"><h5 align="center">+ Detalhes</h5></td>
         </tr>
     </table>
 </div>
