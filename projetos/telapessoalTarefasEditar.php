@@ -289,79 +289,113 @@ accept-charset="UTF-8">
   <h2>Editar Tarefas</h2>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <h3>Projeto:</h3>
+  <h4>Projeto:</h4>
   <p>&nbsp;</p>
   <table width="1200" border="0" cellpadding="0" cellspacing="5">
     <tr>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Tarefa</h4>
+        <h5>Tarefa</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Prioridade</h4>
+        <h5>Prioridade</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Status</h4>
+        <h5>Status</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Atribuição</h4>
+        <h5>Atribuição</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Sub-atribuição</h4>
+        <h5>Sub-atribuição</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Descrição</h4>
+        <h5>Descrição</h5>
       </div></td>
     </tr>
     <tr>
-      <td width="200"><label for="tarefa"></label>
+      <td width="200"><h5>
+        <label for="tarefa"></label>
+      </h5>
         <div align="center">
-          <input name="tarefa" type="text" class="textbox" id="tarefa">
+          <h5>
+            <input name="tarefa" type="text" class="textbox" id="tarefa">
+          </h5>
         </div></td>
-      <td width="200"><label for="prioridade"></label>
+      <td width="200"><h5>
+        <label for="prioridade"></label>
+      </h5>
         <div align="center">
-          <input name="prioridade" type="text" class="textbox" id="prioridade">
+          <h5>
+            <input name="prioridade" type="text" class="textbox" id="prioridade">
+          </h5>
         </div></td>
-      <td width="200"><label for="status"></label>
+      <td width="200"><h5>
+        <label for="status"></label>
+      </h5>
         <div align="center">
-          <input name="status" type="text" class="textbox" id="status">
+          <h5>
+            <input name="status" type="text" class="textbox" id="status">
+          </h5>
         </div></td>
-      <td width="200"><label for="atribuicao"></label>
+      <td width="200"><h5>
+        <label for="atribuicao"></label>
+      </h5>
         <div align="center">
-          <input name="atribuicao" type="text" class="textbox" id="atribuicao">
+          <h5>
+            <input name="atribuicao" type="text" class="textbox" id="atribuicao">
+          </h5>
         </div></td>
-      <td width="200"><label for="subatribuicao"></label>
+      <td width="200"><h5>
+        <label for="subatribuicao"></label>
+      </h5>
         <div align="center">
-          <input name="subatribuicao" type="text" class="textbox" id="subatribuicao">
+          <h5>
+            <input name="subatribuicao" type="text" class="textbox" id="subatribuicao">
+          </h5>
         </div></td>
-      <td width="200" rowspan="3"><label for="descricao"></label>
+      <td width="200" rowspan="3"><h5>
+        <label for="descricao"></label>
+      </h5>
         <div align="center">
-          <textarea name="descricao" cols="40" rows="5" class="textarea" id="descricao"></textarea>
+          <h5>
+            <textarea name="descricao" cols="40" rows="5" class="textarea" id="descricao"></textarea>
+          </h5>
         </div></td>
     </tr>
     <tr>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Início</h4>
+        <h5>Início</h5>
       </div></td>
       <td width="200" bgcolor="#FFFFFF"><div align="center">
-        <h4>Conclusão</h4>
+        <h5>Conclusão</h5>
       </div></td>
       <td width="200" rowspan="2" bgcolor="#FFFFFF"><div align="center">
-        <h4>Liberadora p/ Orçamento</h4>
+        <h5>Liberadora p/ Orçamento</h5>
       </div>        <div align="center">
-          <h4>Entrega de Doc?</h4>
+          <h5>Entrega de Doc?</h5>
         </div></td>
-      <td colspan="2" rowspan="2"><label for="liberacaoOrc"></label>
+      <td colspan="2" rowspan="2"><h5>
+        <label for="liberacaoOrc"></label>
         <select name="liberacaoOrc" class="textbox" id="liberacaoOrc">
-        </select></td>
+        </select>
+      </h5></td>
       </tr>
     <tr bgcolor="#FFFFFF">
-      <td width="200"><label for="dataInicio"></label>
+      <td width="200"><h5>
+        <label for="dataInicio"></label>
+      </h5>
         <div align="center">
-          <input name="dataInicio" type="text" class="textbox" id="dataInicio">
+          <h5>
+            <input name="dataInicio" type="text" class="textbox" id="dataInicio">
+          </h5>
         </div></td>
-      <td width="200"><label for="dataConclusao"></label>
+      <td width="200"><h5>
+        <label for="dataConclusao"></label>
+      </h5>
         <div align="center">
-          <input name="dataConclusao" type="text" class="textbox" id="dataConclusao">
+          <h5>
+            <input name="dataConclusao" type="text" class="textbox" id="dataConclusao">
+          </h5>
         </div></td>
       </tr>
 </table>
@@ -372,25 +406,26 @@ accept-charset="UTF-8">
     <input name="visualizarProjeto" type="submit" class="botao" id="visualizarProjeto" value="Visualizar Proj">
 </p>
   <p>&nbsp;</p>
+  <p>&nbsp;</p>
   <div align="center">
     <table width="1250" border="1" cellpadding="0" cellspacing="0" class="tbody">
       <tr>
         <th width="250" bgcolor="#D6D6D6"><div align="center">
-          <h4>Tarefa</h4>
+          <h5>Tarefa</h5>
         </div></th>
         <th width="100" bgcolor="#D6D6D6"><div align="center">
-          <h4>Prioridade</h4>
+          <h5>Prioridade</h5>
         </div></th>
         <th width="150" bgcolor="#D6D6D6"><div align="center">
-          <h4>Status</h4>
+          <h5>Status</h5>
         </div></th>
         <th width="250" bgcolor="#D6D6D6"><div align="center">
-          <h4>Atribuido</h4>
+          <h5>Atribuido</h5>
         </div></th>
         <th width="100" bgcolor="#D6D6D6"><div align="center">
-          <h4>Sub-atribuido</h4>
+          <h5>Sub-atribuido</h5>
         </div></th>
-        <th width="200" bgcolor="#D6D6D6"><h4 align="center">Início - Término</h4></th>
+        <th width="200" bgcolor="#D6D6D6"><h5 align="center">Início - Término</h5></th>
         </tr>
       <tr>
         <td width="250">&nbsp;</td>

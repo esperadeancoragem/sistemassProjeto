@@ -330,52 +330,52 @@ Logo2
 <p>&nbsp;</p>
 <h5>Atenção! Se for obra que nós não vamos instalar, só adicionar as tarefas Croqui e Projeto Executivo.</h5>
 <p>&nbsp;</p>
-<h4><strong>&gt;</strong></h4>
+<h4><strong>&gt;</strong>&gt;&gt;&gt;&gt;&gt;&gt;</h4>
 <p>&nbsp;</p>
-<h3>Tarefas já cadastradas</h3>
+<h4>Tarefas já cadastradas</h4>
 <p>&nbsp;</p>
-<table width="400" border="0" cellspacing="0" cellpadding="0">
+<table width="200" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="150"><h4>Projeto</h4></td>
-    <td width="250"><h4>&nbsp;</h4>
+    <td width="30"><h4>Projeto</h4></td>
+    <td width="100"><h4>&nbsp;</h4>
       <h4>Tarefa</h4>
       <p>&nbsp;</p></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>Projeto</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>Projeto</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>Orçamento</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>Orçamento</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>Instalação</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>Instalação</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>Furação</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>Furação</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>Chumbamento</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>Chumbamento</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>&nbsp;</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>&nbsp;</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>&nbsp;</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>&nbsp;</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>&nbsp;</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>&nbsp;</h5></td>
   </tr>
   <tr>
-    <td width="150"><h5>1000</h5></td>
-    <td width="250"><h5>&nbsp;</h5></td>
+    <td width="30"><h5>0000</h5></td>
+    <td width="100"><h5>&nbsp;</h5></td>
   </tr>
 </table>
 <p>&nbsp;</p>

@@ -294,7 +294,7 @@ Logo2
   <p>&nbsp;</p>
   <h5>Projeto 
     <label for="projeto"></label>
-    <input name="projeto" type="text" class="textbox" id="projeto" size="60">
+    <input name="projeto" type="text" class="textbox" id="projeto" size="80">
   </h5>
   <h5>&nbsp;</h5>
   <h5>Torre 

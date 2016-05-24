@@ -287,7 +287,7 @@ Logo2
       <h2>Gráfico Comparativo de Trimestre</h2>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-      <h3>Status</h3>
+      <h3>Status:</h3>
       <p>&nbsp;</p>
       <h4>
         <input type="checkbox" name="exibirValores" id="exibirValores">
